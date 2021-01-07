@@ -8,4 +8,4 @@
 
       res.json(data);
       res.end();
- }
+ };
